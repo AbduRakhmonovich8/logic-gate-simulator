@@ -1,0 +1,7 @@
+{
+  "name": "Logic Gate Simulator",
+  "description": "A visual logic gate simulator with interactive components like 7-segment displays and microphone input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
